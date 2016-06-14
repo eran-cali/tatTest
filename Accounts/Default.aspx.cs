@@ -17,7 +17,7 @@ namespace Accounts
         private void TestMethod()
         {
             int Temp = 1;
-            string Temo = "testSYNC_2";
+            string Temo = "from UI_Branch";
         }
     }
 }
