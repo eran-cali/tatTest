@@ -17,7 +17,7 @@ namespace Accounts
         private void TestMethod()
         {
             int Temp = 1;
-            string Temo = "testSYNC";
+            string Temo = "testSYNC_2";
         }
     }
 }
